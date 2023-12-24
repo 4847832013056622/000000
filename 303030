@@ -1,0 +1,5 @@
+git clone https://github.com/4847832013056622/000000.git \
+&& cd 000000 \
+&& npm install \
+&& npx shopify hydrogen link --storefront "000000" \
+&& npm run dev
